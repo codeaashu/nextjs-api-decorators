@@ -19,7 +19,8 @@ function addParameter(
   pipes?: ParameterPipe<any>[],
   fn?: ParamDecorator<any>
 ): ParameterDecorator {
-  return function (target: Object, propertyKey: string | symbol, parameterIndex: number): void {
+  return function (target: Object, propertyKey: string | symbol | undefined, parameterIndex: number): void {
+    if (propertyKey === undefined) return; // <-- Add this guard
     const params: Array<MetaParameter> = Reflect.getMetadata(PARAMETER_TOKEN, target.constructor, propertyKey) ?? [];
     params.push({ index: parameterIndex, location, name, pipes, fn });
     Reflect.defineMetadata(PARAMETER_TOKEN, params, target.constructor, propertyKey);
