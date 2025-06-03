@@ -75,4 +75,4 @@ Your tsconfig.json needs the following flag in the `compilerOptions` section:
 
 ## Examples
 
-Please see [the examples](https://github.com/instantcommerce/next-api-decorators/tree/master/examples) to see how this library can be used.
+Please see [the examples](https://github.com/codeaashu/nextjs-api-decorators/tree/master/examples) to see how this library can be used.

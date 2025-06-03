@@ -2,21 +2,21 @@
 module.exports = {
   title: 'Next.js API Decorators',
   tagline:
-    'Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.',
-  url: 'https://next-api-decorators.vercel.com',
+    'A collection of decorators for building clean, typed API routes in Next.js with built-in validation and request transformation.',
+  url: 'https://nextjs-api-decorators.vercel.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'instantcommerce',
+  favicon: 'Logo.png',
+  organizationName: 'DevDisplay',
   projectName: 'next-api-decorators',
   themeConfig: {
     navbar: {
       title: 'Next.js API Decorators',
       logo: {
-        alt: 'Instant Commerce Logo',
-        src: 'img/logo.png',
-        srcDark: 'img/logo-dark.png',
+        alt: 'Next.js API Decorators Logo',
+        src: 'Logo.png',
+        srcDark: 'Logo.png',
       },
       items: [
         {
@@ -36,7 +36,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/instantcommerce/next-api-decorators',
+          href: 'https://github.com/codeaashu/nextjs-api-decorators',
           label: 'GitHub',
           position: 'right',
         },
@@ -59,12 +59,12 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/instantcommerce/next-api-decorators',
+              href: 'https://github.com/codeaashu/nextjs-api-decorators',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://instantcommerce.io" target="_blank" rel="noopener">Instant Commerce<a/>.`,
+      copyright: `Copyright © ${new Date().getFullYear()} <a href="https://www.ashutoshkumar.me" target="_blank" rel="noopener">Ashutosh Kumar<a/>.`,
     },
     colorMode: {
       defaultMode: 'dark',
@@ -78,7 +78,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/instantcommerce/next-api-decorators/edit/master/website/',
+            'https://github.com/codeaashu/nextjs-api-decorators/edit/master/website/',
           remarkPlugins: [
             [require('@docusaurus/remark-plugin-npm2yarn'), { sync: true }],
           ],
