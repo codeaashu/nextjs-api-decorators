@@ -2,10 +2,10 @@
   <a aria-label="Instant Commerce logo" href="https://instantcommerce.io/" target="_blank" align="center">
     <img src="https://avatars.githubusercontent.com/u/93975473" alt="Instant Commerce" width="100">
   </a>
-  <h1 align="center">Nextjs API Decorators</h1>
+  <h1 align="center">Next.js API Decorators</h1>
   <p align="center">
-    <a aria-label="releases" href="https://github.com/codeaashu/next-api-decorators/releases/" target="_blank">
-      <img src="https://github.com/instantcommerce/next-api-decorators/workflows/Release/badge.svg">
+    <a aria-label="releases" href="https://github.com/codeaashu/nextjs-api-decorators/releases/" target="_blank">
+      <img src="https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg">
     </a>
     <a aria-label="npm" href="https://www.npmjs.com/package/next-api-decorators" target="_blank">
       <img src="https://img.shields.io/npm/v/next-api-decorators">
@@ -13,7 +13,7 @@
     <a aria-label="codecov" href="https://codecov.io/gh/instantcommerce/next-api-decorators" target="_blank">
       <img src="https://codecov.io/gh/instantcommerce/next-api-decorators/branch/master/graph/badge.svg?token=ZV0YT4HU5H">
     </a>
-    <a aria-label="stars" href="https://github.com/instantcommerce/next-api-decorators/stargazers/" target="_blank">
+    <a aria-label="stars" href="https://github.com/codeaashu/nextjs-api-decorators/stargazers/" target="_blank">
       <img src="https://img.shields.io/github/stars/instantcommerce/next-api-decorators.svg?style=social&label=Star&maxAge=86400" />
     </a>
   </p>
@@ -24,7 +24,7 @@
 <div align="center">
   A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
 
-  [View docs](https://next-api-decorators.vercel.app/)
+  [View docs](https://nextjs-api-decorators.vercel.app/)
 </div>
 
 ---
@@ -57,7 +57,7 @@ class User {
 export default createHandler(User);
 ```
 
-💡 Read more about validation [here](https://next-api-decorators.vercel.app/docs/validation)
+💡 Read more about validation [here](https://nextjs-api-decorators.vercel.app/docs/validation)
 
 <details>
   <summary>The code above without next-api-decorators</summary>

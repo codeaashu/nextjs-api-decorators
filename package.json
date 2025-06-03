@@ -1,20 +1,20 @@
 {
   "name": "next-api-decorators",
-  "description": "Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.",
+  "description": "A collection of decorators for building clean, typed API routes in Next.js with built-in validation and request transformation.",
   "version": "0.0.0-development",
   "author": {
-    "name": "Instant Commerce",
-    "url": "https://instantcommerce.io",
-    "email": "dev@instantcommerce.io"
+    "name": "Ashutosh Kumar",
+    "url": "https://www.ashutoshkumar.me",
+    "email": "hellow.ashutosh@gmail.com"
   },
   "main": "dist/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/instantcommerce/next-api-decorators"
+    "url": "https://github.com/codeaashu/nextjs-api-decorators"
   },
   "bugs": {
-    "url": "https://github.com/instantcommerce/next-api-decorators/issues"
+    "url": "https://github.com/codeaashu/nextjs-api-decorators/issues"
   },
   "keywords": [
     "typescript",
