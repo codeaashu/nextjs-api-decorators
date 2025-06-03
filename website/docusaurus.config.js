@@ -7,7 +7,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'logo.png',
+  favicon: '/public/logo.png',
   organizationName: 'DevDisplay',
   projectName: 'next-api-decorators',
   themeConfig: {
@@ -15,8 +15,8 @@ module.exports = {
       title: 'Next.js API Decorators',
       logo: {
         alt: 'Next.js API Decorators Logo',
-        src: 'logo.png',
-        srcDark: 'logo.png',
+        src: '/public/logo.png',
+        srcDark: '/public/logo.png',
       },
       items: [
         {
