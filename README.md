@@ -2,7 +2,7 @@
   <a aria-label="Instant Commerce logo" href="https://instantcommerce.io/" target="_blank" align="center">
     <img src="https://avatars.githubusercontent.com/u/93975473" alt="Instant Commerce" width="100">
   </a>
-  <h1 align="center">NextJs API Decorators</h1>
+  <h1 align="center">Nextjs API Decorators</h1>
   <p align="center">
     <a aria-label="releases" href="https://github.com/codeaashu/next-api-decorators/releases/" target="_blank">
       <img src="https://github.com/instantcommerce/next-api-decorators/workflows/Release/badge.svg">
