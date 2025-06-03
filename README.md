@@ -1,6 +1,6 @@
 <div align="center">
   <a aria-label="Instant Commerce logo" href="https://instantcommerce.io/" target="_blank" align="center">
-    <img src="https://avatars.githubusercontent.com/u/93975473" alt="Instant Commerce" width="100">
+    <img src="/public/logo.png" alt="Instant Commerce" width="100">
   </a>
   <h1 align="center">Next.js API Decorators</h1>
   <p align="center">
@@ -10,11 +10,11 @@
     <a aria-label="npm" href="https://www.npmjs.com/package/next-api-decorators" target="_blank">
       <img src="https://img.shields.io/npm/v/next-api-decorators">
     </a>
-    <a aria-label="codecov" href="https://codecov.io/gh/instantcommerce/next-api-decorators" target="_blank">
-      <img src="https://codecov.io/gh/instantcommerce/next-api-decorators/branch/master/graph/badge.svg?token=ZV0YT4HU5H">
+    <a aria-label="codecov" href="https://codecov.io/gh/codeaashu/nextjs-api-decorators" target="_blank">
+      <img src="https://codecov.io/gh/codeaashu/nextjs-api-decorators/branch/master/graph/badge.svg?token=ZV0YT4HU5H">
     </a>
     <a aria-label="stars" href="https://github.com/codeaashu/nextjs-api-decorators/stargazers/" target="_blank">
-      <img src="https://img.shields.io/github/stars/instantcommerce/next-api-decorators.svg?style=social&label=Star&maxAge=86400" />
+      <img src="https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators.svg?style=social&label=Star&maxAge=86400" />
     </a>
   </p>
 </div>
@@ -109,23 +109,23 @@ If you are not familiar with Next.js or NestJS and want some more information (o
 
 ## Installation
 
-Visit https://next-api-decorators.vercel.app/docs/#installation to get started.
+Visit https://nextjs-api-decorators.vercel.app/docs/#installation to get started.
 
 ## Documentation
 
 Refer to our docs for usage topics:
 
-[Validation](https://next-api-decorators.vercel.app/docs/validation)
+[Validation](https://nextjs-api-decorators.vercel.app/docs/validation)
 
-[Route matching](https://next-api-decorators.vercel.app/docs/routing/route-matching)
+[Route matching](https://nextjs-api-decorators.vercel.app/docs/routing/route-matching)
 
-[Using middlewares](https://next-api-decorators.vercel.app/docs/middlewares)
+[Using middlewares](https://nextjs-api-decorators.vercel.app/docs/middlewares)
 
-[Custom middlewares](https://next-api-decorators.vercel.app/docs/middlewares#custom-middleware-decorators)
+[Custom middlewares](https://nextjs-api-decorators.vercel.app/docs/middlewares#custom-middleware-decorators)
 
-[Pipes](https://next-api-decorators.vercel.app/docs/pipes)
+[Pipes](https://nextjs-api-decorators.vercel.app/docs/pipes)
 
-[Exceptions](https://next-api-decorators.vercel.app/docs/exceptions)
+[Exceptions](https://nextjs-api-decorators.vercel.app/docs/exceptions)
 
 ## Available decorators
 
