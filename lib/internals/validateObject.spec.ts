@@ -15,9 +15,9 @@ describe('validateObject', () => {
       public email!: string;
     }
 
-    const result = await validateObject(Dto, { secondaryEmail: 'dev@instantcommerce.io' });
+    const result = await validateObject(Dto, { secondaryEmail: 'hellow.ashutosh@gmail.com' });
 
-    expect(result).toHaveProperty('secondaryEmail', 'dev@instantcommerce.io');
+    expect(result).toHaveProperty('secondaryEmail', 'hellow.ashutosh@gmail.com');
 
     spy.mockRestore();
   });
@@ -32,9 +32,9 @@ describe('validateObject', () => {
       public email!: string;
     }
 
-    const result = await validateObject(Dto, { secondaryEmail: 'dev@instantcommerce.io' });
+    const result = await validateObject(Dto, { secondaryEmail: 'hellow.ashutosh@gmail.com' });
 
-    expect(result).toHaveProperty('secondaryEmail', 'dev@instantcommerce.io');
+    expect(result).toHaveProperty('secondaryEmail', 'hellow.ashutosh@gmail.com');
 
     spy.mockRestore();
   });
@@ -48,13 +48,13 @@ describe('validateObject', () => {
 
     const result = await validateObject(
       Dto,
-      { email: 'dev@instantcommerce.io', secondaryEmail: 'hello@instantcommerce.io' },
+      { email: 'hellow.ashutosh@gmail.com', secondaryEmail: 'ashutoshpythoncs@gmail.com' },
       {
         transformOptions: { excludeExtraneousValues: true }
       }
     );
 
-    expect(result).toHaveProperty('email', 'dev@instantcommerce.io');
-    expect(result).not.toHaveProperty('secondaryEmail', 'hello@instantcommerce.io');
+    expect(result).toHaveProperty('email', 'hellow.ashutosh@gmail.com');
+    expect(result).not.toHaveProperty('secondaryEmail', 'ashutoshpythoncs@gmail.com');
   });
 });

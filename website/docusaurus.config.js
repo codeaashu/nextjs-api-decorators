@@ -11,6 +11,7 @@ module.exports = {
   organizationName: 'DevDisplay',
   projectName: 'next-api-decorators',
   themeConfig: {
+    titleDelimiter: '',
     navbar: {
       title: 'Next.js API Decorators',
       logo: {
