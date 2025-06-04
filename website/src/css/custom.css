@@ -15,7 +15,7 @@
   --ifm-color-primary-lighter: #ccc;
   --ifm-color-primary-lightest: #ddd;
   --ifm-code-font-size: 95%;
-  --hero-title: #000b19;
+  --hero-title: #111;
   --hero-subtitle: #666;
   --hero-background: #fff;
 }
@@ -38,7 +38,7 @@ html[data-theme="dark"] {
 }
 
 .docusaurus-highlight-code-line {
-  background-color: rgb(48, 53, 67);
+  background-color: rgb(72, 77, 91);
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
@@ -58,7 +58,7 @@ html[data-theme="dark"] {
 }
 
 .footer {
-  background-color: #000b19;
+  background-color: #181818;
 }
 
 .main-wrapper {
