@@ -29,7 +29,7 @@ Building serverless functions declaratively with classes and decorators makes de
 The structure is heavily inspired by NestJS, which is an amazing framework for a lot of use cases. On the other hand, a separate NestJS repo for your backend can also bring unneeded overhead and complexity to projects with a smaller set of backend requirements. Combining the structure of NestJS, with the ease of use of Next.js, brings the best of both worlds for the right use case.
 
 If you are not familiar with Next.js or NestJS and want some more information (or need to be convinced), check out the article
-[Awesome Next.js API Routes with next-api-decorators](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0)
+[Awesome Next.js API Routes with next-api-decorators - Dev.to](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0) or [Awesome Next.js API Routes with next-api-decorators - Medium](https://warrioraashuu.medium.com/awesome-next-js-api-routes-with-next-api-decorators-670b804453d2)
 
 ## Installation
 
