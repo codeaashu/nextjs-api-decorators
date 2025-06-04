@@ -21,10 +21,10 @@
 }
 
 html[data-theme="dark"]:root {
-  --ifm-color-primary: #FDE77C;
-  --ifm-color-primary-dark: #FBCC26;
-  --ifm-color-primary-darker: #AF8904;
-  --ifm-color-primary-darkest: #312D00;
+  --ifm-color-primary: #7cd8fd;
+  --ifm-color-primary-dark: #26b7fb;
+  --ifm-color-primary-darker: #047faf;
+  --ifm-color-primary-darkest: #002631;
   --ifm-color-primary-light: #FCF2CD;
   --ifm-color-primary-lighter: #FEF9E6;
   --ifm-color-primary-lightest: #FEF9E6;
