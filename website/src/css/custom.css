@@ -34,7 +34,7 @@ html[data-theme="dark"]:root {
 html[data-theme="dark"] {
   --hero-title: #fff;
   --hero-subtitle: #fff;
-  --hero-background: #000914;
+  --hero-background: #111;
 }
 
 .docusaurus-highlight-code-line {
