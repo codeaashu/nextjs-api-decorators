@@ -7,7 +7,7 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: '/logo.png',
+  favicon: '/favicon.ico',
   organizationName: 'DevDisplay',
   projectName: 'next-api-decorators',
   themeConfig: {
