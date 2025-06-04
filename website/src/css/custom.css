@@ -58,10 +58,11 @@ html[data-theme="dark"] {
 }
 
 .footer {
-  background-color: #212121;
+  background-color: #000f21;
 }
 
 .main-wrapper {
   display: flex;
   flex-direction: column;
 }
+                                          W3
