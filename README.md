@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.<br>
+  A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.<br><br>
 
   [View docs](https://nextjs-api-decorators.vercel.app/) ✦ [View Dev.to Article](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0) ✦ [View Medium Article](https://warrioraashuu.medium.com/awesome-next-js-api-routes-with-next-api-decorators-670b804453d2)
 </div>
