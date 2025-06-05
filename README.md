@@ -16,6 +16,9 @@
     <a aria-label="stars" href="https://github.com/codeaashu/nextjs-api-decorators/stargazers/" target="_blank">
       <img src="https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators.svg?style=social&label=Star&maxAge=86400" />
     </a>
+    [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker) [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the NPM or MIT - see the [LICENSE](LICENSE) file for details.
   </p>
 </div>
 
