@@ -16,13 +16,14 @@
     <a aria-label="stars" href="https://github.com/codeaashu/nextjs-api-decorators/stargazers/" target="_blank">
       <img src="https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators.svg?style=social&label=Star&maxAge=86400" />
     </a>
-    
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Releases](https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/nextjs-api-decorators)
-![GitHub stars](https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/codeaashu/nextjs-api-decorators?style=social)
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub stars](https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/codeaashu/nextjs-api-decorators?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 
 This project is licensed under the NPM or MIT - see the [LICENSE](LICENSE) file for details.
