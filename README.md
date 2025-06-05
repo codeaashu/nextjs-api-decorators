@@ -15,7 +15,7 @@
 
 
 <div align="center">
-  A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.< /br>
+  A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.<br>
 
   [View docs](https://nextjs-api-decorators.vercel.app/) ✦ [View Dev.to Article](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0) ✦ [View Medium Article](https://warrioraashuu.medium.com/awesome-next-js-api-routes-with-next-api-decorators-670b804453d2)
 </div>
@@ -155,8 +155,10 @@ Refer to our docs for usage topics:
 
 \* Note that when you inject `@Res()` in a method handler you become responsible for managing the response. When doing so, you must issue some kind of response by making a call on the response object (e.g., `res.json(...)` or `res.send(...)`), or the HTTP server will hang.
 
+---
+
 <div align="center">
   
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)  
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)  <br>
 <img src="/public/banner.jpg" alt="Theme0" width="850" />
 </div>
