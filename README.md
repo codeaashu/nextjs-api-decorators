@@ -4,29 +4,15 @@
   </a>
   <h1 align="center"><a href="https://nextjs-api-decorators.vercel.app/"><strong>✦ Next.js API Decorators ✦</strong></a></h1><br>
   <p align="center">
-    <a aria-label="releases" href="https://github.com/codeaashu/nextjs-api-decorators/releases/" target="_blank">
-      <img src="https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg">
-    </a>
-    <a aria-label="npm" href="https://www.npmjs.com/package/next-api-decorators" target="_blank">
-      <img src="https://img.shields.io/npm/v/next-api-decorators">
-    </a>
-    <a aria-label="codecov" href="https://codecov.io/gh/codeaashu/nextjs-api-decorators" target="_blank">
-      <img src="https://codecov.io/gh/codeaashu/nextjs-api-decorators/branch/master/graph/badge.svg?token=ZV0YT4HU5H">
-    </a>
-    <a aria-label="stars" href="https://github.com/codeaashu/nextjs-api-decorators/stargazers/" target="_blank">
-      <img src="https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators.svg?style=social&label=Star&maxAge=86400" />
-    </a>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Releases](https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg)
+![Releases](https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/nextjs-api-decorators)
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 ![GitHub stars](https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators?style=social) 
 ![GitHub forks](https://img.shields.io/github/forks/codeaashu/nextjs-api-decorators?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
-
-This project is licensed under the NPM or MIT - see the [LICENSE](LICENSE) file for details.
   </p>
 </div>
 
@@ -172,3 +158,7 @@ Refer to our docs for usage topics:
 | `@Param(key: string)`   | Gets a route parameter value by key.        |
 
 \* Note that when you inject `@Res()` in a method handler you become responsible for managing the response. When doing so, you must issue some kind of response by making a call on the response object (e.g., `res.json(...)` or `res.send(...)`), or the HTTP server will hang.
+
+<p align="center">
+  <img src="/public/banner.jpg" alt="Theme0" width="850" />
+</p>
