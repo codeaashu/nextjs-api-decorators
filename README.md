@@ -3,7 +3,6 @@
     <img src="/public/ICON.png" alt="Next.js API Decorators" width="150">
   </a>
   <h1 align="center"><a href="https://nextjs-api-decorators.vercel.app/"><strong>✦ Next.js API Decorators ✦</strong></a></h1><br>
-  <p align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Releases](https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg)
@@ -12,16 +11,12 @@
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 ![GitHub stars](https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators?style=social) 
 ![GitHub forks](https://img.shields.io/github/forks/codeaashu/nextjs-api-decorators?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
-  </p>
 </div>
-
----
 
 <div align="center">
   A collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
 
-  [View docs](https://nextjs-api-decorators.vercel.app/)
+  [View docs](https://nextjs-api-decorators.vercel.app/)  [View Dev.to Article](https://dev.to/warrioraashuu/awesome-nextjs-api-routes-with-next-api-decorators-1bd0)  [View Medium Article](https://warrioraashuu.medium.com/awesome-next-js-api-routes-with-next-api-decorators-670b804453d2)
 </div>
 
 ---
@@ -159,6 +154,7 @@ Refer to our docs for usage topics:
 
 \* Note that when you inject `@Res()` in a method handler you become responsible for managing the response. When doing so, you must issue some kind of response by making a call on the response object (e.g., `res.json(...)` or `res.send(...)`), or the HTTP server will hang.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/warrior_aashuu?style=social)](https://twitter.com/intent/follow?screen_name=warrior_aashuu)
 <p align="center">
   <img src="/public/banner.jpg" alt="Theme0" width="850" />
 </p>
