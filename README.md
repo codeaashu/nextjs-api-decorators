@@ -9,7 +9,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/nextjs-api-decorators)
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
-![GitHub stars](https://img.shields.io/github/stars/codeaashu/nextjs-api-decorators?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/codeaash/nextjs-api-decorators?style=social) 
 ![GitHub forks](https://img.shields.io/github/forks/codeaashu/nextjs-api-decorators?style=social)
 </div>
 
