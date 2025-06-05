@@ -5,7 +5,7 @@
   <h1 align="center"><a href="https://nextjs-api-decorators.vercel.app/"><strong>✦ Next.js API Decorators ✦</strong></a></h1><br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![Releases](https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/codeaashu/nextjs-api-decorators)
 ![GitHub repo size](https://img.shields.io/github/repo-size/codeaashu/nextjs-api-decorators)
 [![npm version](https://img.shields.io/npm/v/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
 [![npm license](https://img.shields.io/npm/l/badge-maker.svg)](https://npmjs.org/package/badge-maker) 
