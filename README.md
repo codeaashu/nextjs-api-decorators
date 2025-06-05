@@ -2,7 +2,7 @@
   <a aria-label="Next.js API Decorators Logo" href="https://nextjs-api-decorators.vercel.app/" target="_blank" align="center">
     <img src="/public/ICON.png" alt="Next.js API Decorators" width="150">
   </a>
-  <h1 align="center">Next.js API Decorators</h1>
+  <h1 align="center"><a href="https://nextjs-api-decorators.vercel.app/"><strong>✦ Next.js API Decorators ✦</strong></a></h1><br>
   <p align="center">
     <a aria-label="releases" href="https://github.com/codeaashu/nextjs-api-decorators/releases/" target="_blank">
       <img src="https://github.com/codeaashu/nextjs-api-decorators/workflows/Release/badge.svg">
