@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a aria-label="Next.js API Decorators Logo" href="https://nextjs-api-decorators.vercel.app/" target="_blank" align="center">
     <img src="/public/ICON.png" alt="Next.js API Decorators" width="150">
   </a>
